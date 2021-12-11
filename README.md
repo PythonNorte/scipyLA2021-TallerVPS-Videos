@@ -17,6 +17,8 @@ En este repositorio vamos a dejar algunos videos utiles para poder seguir el tal
     * ¿Como reconectarme al VPS?
 
 ## Enlaces a Preguntas Frecuentes
+
+Haciendo click sobre la imagen te dirigira automaticamente hacia el video en youtube, sino puedes hacer click derecho y abrirlo en una nueva pestaña
 ### ¿Como iniciar sesion en el VPS ? 
 
 
@@ -62,4 +64,5 @@ En este repositorio vamos a dejar algunos videos utiles para poder seguir el tal
 
 ### ¿Como reconectarme al VPS?
 
-[![Alt text](http://img.youtube.com/vi/https://youtu.be/rl-F1M6Mymk/0.jpg)](https://youtu.be/rl-F1M6Mymk "")
+[![Alt text](http://img.youtube.com/vi/rl-F1M6Mymk/0.jpg)](https://www.youtube.com/watch?v=rl-F1M6Mymk "")
+
