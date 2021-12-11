@@ -1,4 +1,4 @@
-# scipyLA2021-TallerVPS-Videos
+# ScipyLA2021-TallerVPS-Videos
 
 En este repositorio vamos a dejar algunos videos utiles para poder seguir el taller paso a paso, respondiendo a dudas comunes o preguntas frecuentes que suelen surgir cuando inciamos en el uso del VPS, espero les sea de mucha utilidad y disfruten de ser parte y de hacer `ScipyLA2021`, desde aqui nuestro aporte para el `Taller VPS` que se va a dictar durante la conferencia. Si necesitas que armemos o agreguemos alguna pregunta o tienes alguna sugerencia no dudes en hacerla :) 
 
