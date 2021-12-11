@@ -16,6 +16,9 @@ En este repositorio vamos a dejar algunos videos utiles para poder seguir el tal
     * ¿Como es el orden de ejecucion de las celdas?
     * ¿Como reconectarme al VPS?
 
+## Lista de Reproduccion en Youtube  [Click Aqui](https://www.youtube.com/watch?v=C4BkwqpAafE&list=PLB4T2blgpn1xwOz6k7NbcTddtdEFkZaB_)
+
+
 ## Enlaces a Preguntas Frecuentes
 
 Haciendo click sobre la imagen te dirigira automaticamente hacia el video en youtube, sino puedes hacer click derecho y abrirlo en una nueva pestaña
