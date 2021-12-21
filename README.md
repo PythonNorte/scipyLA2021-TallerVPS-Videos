@@ -2,6 +2,10 @@
 
 En este repositorio vamos a dejar algunos videos utiles para poder seguir el taller paso a paso, respondiendo a dudas comunes o preguntas frecuentes que suelen surgir cuando inciamos en el uso del VPS, espero les sea de mucha utilidad y disfruten de ser parte y de hacer `ScipyLA2021`, desde aqui nuestro aporte para el `Taller VPS` que se va a dictar durante la conferencia. Si necesitas que armemos o agreguemos alguna pregunta o tienes alguna sugerencia no dudes en hacerla :) 
 
+## Taller en ScipyLA Recife Brasil, 2021
+https://youtu.be/wFdrA20_5qo
+(Edicion y puesta en YouTube: Nicolas Quiroz)
+
 ## Preguntas Frecuentes que vamos a Responder
     * ¿Como iniciar sesion en el VPS ? 
     * ¿Como cambiar el idioma en el VPS ?
