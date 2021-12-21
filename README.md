@@ -4,7 +4,7 @@ En este repositorio vamos a dejar algunos videos utiles para poder seguir el tal
 
 ## Taller en ScipyLA Recife Brasil, 2021
 https://youtu.be/wFdrA20_5qo
-(Edicion y puesta en YouTube: Nicolas Quiroz)
+*(Edicion y puesta en YouTube: Nicolas Quiroz : https://github.com/cocodibuja)
 
 ## Preguntas Frecuentes que vamos a Responder
     * ¿Como iniciar sesion en el VPS ? 
